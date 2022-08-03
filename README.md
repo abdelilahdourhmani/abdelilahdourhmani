@@ -7,7 +7,6 @@ Hello, great to have you here! 🤩
 - 📫 How to reach me flutter community
 - 💬 Ask me about anything, I would be happy to help 🙈😎;
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Abdelilah_Dourh)](https://github.com/gazf/github-readme-twitter)
 
 <!---
 
