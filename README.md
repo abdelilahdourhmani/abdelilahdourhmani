@@ -7,4 +7,4 @@ Hello, great to have you here! 🤩
 - 📫 How to reach me flutter community
 - 💬 Ask me about anything, I would be happy to help 🙈😎;
 
-<a href="https://twitter.com/intent/tweet?screen_name=Abdelilah_Dourh&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Abdelilah_Dourh</a>
+<a href="https://twitter.com/Abdelilah_Dourh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Abdelilah_Dourh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
