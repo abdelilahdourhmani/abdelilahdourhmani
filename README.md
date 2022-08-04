@@ -34,6 +34,6 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/Abdelilah_Dourh?style=social)](https://twitter.com/Abdelilah_Dourh)
 [![Linkedin: imthepk](https://img.shields.io/badge/-Dourhmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelilah-dourhmani/)](https://www.linkedin.com/in/abdelilah-dourhmani/)
 [![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/abdelilahdourhmani?label=follow&style=social)](https://github.com/abdelilahdourhmani)
-[![website](https://img.shields.io/badge/PortfolioWebsite-dan9-2648ff?style=flat-square&logo=google-chrome)](https://dan9.vercel.app)
+[![website](https://img.shields.io/badge/PortfolioWebsite-DAN9-2648ff?style=flat-square&logo=google-chrome)](https://dan9.vercel.app)
 
 
