@@ -53,8 +53,8 @@
 
 
 <a href="https://github.com/abdelilahdourhmani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ezzahiry&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahdourhmani&theme=light" />
 </a>
 <a href="https://github.com/abdelilahdourhmani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-ezzahiry&show_icons=true&theme=light&line_height=40" alt="DAN9's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelilahdourhmani&show_icons=true&theme=light&line_height=40" alt="DAN9's github stats"/>
 </a>
