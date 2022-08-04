@@ -32,7 +32,7 @@
 - 💬 Ask me about anything, I would be happy to help 🙈😎;
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/Abdelilah_Dourh?style=social)](https://twitter.com/Abdelilah_Dourh)
-
 [![Linkedin: imthepk](https://img.shields.io/badge/-Dourhmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelilah-dourhmani/)](https://www.linkedin.com/in/abdelilah-dourhmani/)
+[![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/abdelilahdourhmani?label=follow&style=social)](https://github.com/abdelilahdourhmani)
 
 
