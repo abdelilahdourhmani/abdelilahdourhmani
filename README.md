@@ -33,4 +33,6 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/Abdelilah_Dourh?style=social)](https://twitter.com/Abdelilah_Dourh)
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-abdelilah-dourhmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelilah-dourhmani/)](https://www.linkedin.com/in/abdelilah-dourhmani/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-hezzahir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelilah-dourhmani/)](https://www.linkedin.com/in/abdelilah-dourhmani/)
+
+
