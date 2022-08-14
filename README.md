@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://linkedin.com/in/abdelilah-dourhmani" target="_blank">
-  <img align="left" alt="DOURHMANI's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="DAN9's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://github.com/abdelilahdourhmani" target="_blank">
@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.facebook.com/oulaya.abdilah/" target="_blank">
-  <img align="left" alt="Hamza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="DAN9's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
@@ -33,7 +33,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/Abdelilah_Dourh?style=social)](https://twitter.com/Abdelilah_Dourh)
 [![Linkedin: imthepk](https://img.shields.io/badge/-Dourhmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelilah-dourhmani/)](https://www.linkedin.com/in/abdelilah-dourhmani/)
-[![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/abdelilahdourhmani?label=follow&style=social)](https://github.com/abdelilahdourhmani)
+[![GitHub AbdelilahDOURHMANI](https://img.shields.io/github/followers/abdelilahdourhmani?label=follow&style=social)](https://github.com/abdelilahdourhmani)
 [![website](https://img.shields.io/badge/PortfolioWebsite-DAN9-2648ff?style=flat-square&logo=google-chrome)](https://dan9.vercel.app)
 
 
