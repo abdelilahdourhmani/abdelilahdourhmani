@@ -25,7 +25,7 @@
 
 - 👋 Hi, I’m @abdelilah-dourhmani Software Engineer 👨🏻‍💻 at [NetOne](http://netonemaroc.com/)
 - 👀 I’m interested in Mobile Development 🧑🏻‍💻
-- 🌱 I’m currently learning Tailwind css
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me [@DAN9](https://twitter.com/Abdelilah_Dourh)
 - 📝 [Resume](https://dan9.vercel.app)
